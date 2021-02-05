@@ -1,7 +1,9 @@
+'''
 Maisong Francis
 
 This document contains the code used to buffer MN State Trails in two different environments: Jupyter Notebooks in ArcPro and in ArcGIS Online. 
 
+'''
 
 # Buffer MN State Trails Shapefile 50 meters on each side 
 # Buffer total size: 100 meters
