@@ -1,7 +1,0 @@
-Data from North Dakota Agricultural Weather Network https://ndawn.ndsu.nodak.edu
-Weekly Observation Table for January 1 2021
-Flag Definition Line: M - Missing; E - Estimated; N/A - Not Available
-Station Name,Latitude,Longitude,Elevation,Year,Month,Day,Max Temp,Number Missing,Number Estimated
-,deg,deg,ft,,,,Degrees F,,
-Ada,47.3211,-96.5139,910,2021,01,01,31.365,0,0
-Ada,47.3211,-96.5139,910,2021,01,08,32.845,0,0
