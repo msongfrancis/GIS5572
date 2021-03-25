@@ -37,6 +37,14 @@ Requires the network analyst license for ESRI ArcGIS Pro and an ArcOnline accoun
     * Format: JPEG
     * Description: Listed directions from network analysis results for the 10 stops and with consideration to two delivery vehicles, 5 stops max for each vehicle and closed highways.
 
+* /results/AGOL_directions_TwoVehicles_5stpsmax_rt1.pdf
+    * Format: PDF
+    * Description: Route one directions using ArcGIS Online Place Route
+
+* /results/AGOL_directions_TwoVehicles_5stpsmax_rt2.pdf
+    * Format: PDF
+    * Description: Route tow directions using ArcGIS Online Place Route
+
 * /code/lab3_arconline.ipynb
     * Format: ipynb
     * Description: Code for network analysis using Place Route Analysis in ArcGIS Online Notebooks. 
