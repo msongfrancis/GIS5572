@@ -19,31 +19,35 @@ Requires the network analyst license for ESRI ArcGIS Pro and an ArcOnline accoun
     
 * /results/directions_OneVehicle.pdf
     * Format: PDF
-    * Description: Listed directions from network analysis results for the 10 stops and with consideration to one delivery vehicle and closed highways. 
+    * Description: ArcGIS Pro listed directions from network analysis results for the 10 stops and with consideration to one delivery vehicle and closed highways. Results from Find Routes tool. 
     
 * /results/directions_TwoVehicles_10stpmax.jpg
     * Format: JPEG
-    * Description: Map project results from network analysis results for the 10 stops and with consideration to two delivery vehicles, 10 stops max for each vehicle and closed highways.
+    * Description: ArcGIS Pro map project results from network analysis results for the 10 stops and with consideration to two delivery vehicles, 10 stops max for each vehicle and closed highways.
     
-* /results/directions_TwoVehicles_10stpmax_map.pdf
+* /results/directions_TwoVehicles_10stpsmax_map.pdf
     * Format: PDF
-    * Description: Listed directions from network analysis results for the 10 stops and with consideration to two delivery vehicles, 10 stops max for each vehicle and closed highways.
+    * Description: ArcGIS Pro listed directions from network analysis results for the 10 stops and with consideration to two delivery vehicles, 10 stops max for each vehicle and closed highways.
     
-* /results/directions_TwoVehicles_5stpsmax.pdf
+* /results/directions_TwoVehicles_5stpsmax_map.pdf
     * Format: PDF
-    * Description: Map project results from network analysis results for the 10 stops and with consideration to two delivery vehicles, 5 stops max for each vehicle and closed highways.
+    * Description: ArcGIS Pro map project results from network analysis results for the 10 stops and with consideration to two delivery vehicles, 5 stops max for each vehicle and closed highways.
     
 * /results/directions_TwoVehicles_5stpsmax_map.jpg
     * Format: JPEG
     * Description: Listed directions from network analysis results for the 10 stops and with consideration to two delivery vehicles, 5 stops max for each vehicle and closed highways.
 
-* /results/AGOL_directions_TwoVehicles_5stpsmax_rt1.pdf
+* /results/AGOL_directions_PlaceRoutes_TwoVehicles_5stpsmax_rt1.pdf
     * Format: PDF
     * Description: Route one directions using ArcGIS Online Place Route
 
-* /results/AGOL_directions_TwoVehicles_5stpsmax_rt2.pdf
+* /results/AGOL_directions_PlaceRoutes_TwoVehicles_5stpsmax_rt2.pdf
     * Format: PDF
-    * Description: Route tow directions using ArcGIS Online Place Route
+    * Description: Route two directions using ArcGIS Online Place Route
+
+* /results/AGOL_directions_SolveVehicleRouteProblem.xls
+    * Format: XLS
+    * Description: Output route directions from using the ArcGIS Online Ready-to-use tool, Solve Vehicle Routing Problem, which uses ESRI's network dataset. 
 
 * /code/lab3_arconline.ipynb
     * Format: ipynb
