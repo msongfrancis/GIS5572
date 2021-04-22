@@ -37,7 +37,4 @@ Requires the ArcGIS Pro Geostatistical Analyst license
     * Format: jpeg
     * Description: Output maps from the different interpolation methods. 
 
-* /output data
-    * Format: Folder
-    * Description: folder for output feature classes and tables.  
    
